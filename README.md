@@ -7,27 +7,27 @@ Database yhdistää ne; Repository välittää datan ViewModelille ja UI reagoi 
   
 projektini rakenne:
 - 
-data/ 
-  local/ 
-    AppDatabase.kt 
-    WeatherDap.kt 
-  model/ 
-    WeatherEntity.kt 
-    WeatherResponse.kt 
-  remote/ 
-    RetrofitInstance.kt 
-    WeatherApi.kt 
-  repository/ 
-    WeatherRepository.kt 
-ui/ 
-  theme/ 
-    Color.kt 
-    Theme.kt 
-    Type.kt 
-  WeatherScreen.kt 
-viewmodel/ 
-  WeatherViewModel.kt 
-MainActivity.kt 
+data/ <br>
+  local/ <br>
+    AppDatabase.kt <br>
+    WeatherDap.kt <br>
+  model/ <br>
+    WeatherEntity.kt <br>
+    WeatherResponse.kt <br>
+  remote/ <br>
+    RetrofitInstance.kt <br>
+    WeatherApi.kt <br>
+  repository/ <br>
+    WeatherRepository.kt <br>
+ui/ <br>
+  theme/ <br>
+    Color.kt <br>
+    Theme.kt <br>
+    Type.kt <br>
+  WeatherScreen.kt <br>
+viewmodel/ <br>
+  WeatherViewModel.kt <br>
+MainActivity.kt <br>
   
 miten datavirta kulkee:
 - 
